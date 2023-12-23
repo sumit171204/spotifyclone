@@ -10,7 +10,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Phir Aur Kya Chahiye", filePath: "1.mp3", coverPath: "1.jpeg"},
+    {songName: "Phir Aur Kya Chahiye", filePath: "/1.mp3", coverPath: "1.jpeg"},
     {songName: "Night Changes X Shayad", filePath: "2.mp3", coverPath: ".jpeg"},
     {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "3.mp3", coverPath: "3.jpg"},
     {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "4.mp3", coverPath: "4.jpg"},
